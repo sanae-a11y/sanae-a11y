@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanae ATTAK</h1>
-<h3 align="center">A passionate AI & ML student from Morocco</h3>
+<h3 align="center">A passionate AI & ML developer from Morocco</h3>
 <!--<img align="right" alt="Coding" width="400" heigh="400" src="https://i.pinimg.com/originals/11/52/86/115286080f85bcea0ecdb920e68fe82b.jpg">-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanae-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="sanae-a11y" /> </p>
 
