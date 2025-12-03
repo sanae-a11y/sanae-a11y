@@ -1,7 +1,6 @@
 <!-- Header Banner -->
 <h1 align="center">🌱 Sanae Attak</h1>
 <h3 align="center">AI • RegTech • NLP • Sustainability • Multi-Agent Systems</h3>
-
 <br>
 
 <!-- Typing Animation -->
@@ -9,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=3CB371&center=true&vCenter=true&width=550&lines=PhD+Student+in+Financial+Engineering;AI+Researcher+%7C+RegTech+%7C+NLP;Building+Green+and+Transparent+Tech;Multi-Agent+Systems+%7C+Knowledge+Graphs;Always+Learning+and+Creating+🌿">
 </p>
 
----
 
 ## 🌿 About Me
 
@@ -31,8 +29,7 @@ I love building intelligent systems that support **transparency, trust, and gree
 - Knowledge Graph reasoning (Neo4j)  
 - Document extraction: EPUB → JSON → embeddings  
 - Built for **green digital transformation and SME-friendly tools**
-
----
+ 
 
 ## 🌟 Featured Projects
 
