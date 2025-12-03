@@ -1,107 +1,107 @@
-# 👋 Hi, I’m **Sanae Attak**
+<!-- Header Banner -->
+<h1 align="center">🌱 Sanae Attak</h1>
+<h3 align="center">AI • RegTech • NLP • Sustainability • Multi-Agent Systems</h3>
 
-🎓 **PhD Student in Financial Engineering & AI**  
-📍 Morocco  
-💼 Researcher in **RegTech, NLP, Sustainability Tech, and Multi-Agent Systems**  
-💚 Passionate about using AI to build smarter, greener, and more transparent financial systems.
+<br>
 
----
-
-## 🚀 Current Research Project — **GreenReg**
-**GreenReg: An Intelligent System for Scalable and Explainable Compliance Automation**
-
-- Multi-agent AI architecture for automated reasoning  
-- Uses **RegTech + NLP + Knowledge Graphs (Neo4j)**  
-- Extracts rules from regulatory documents  
-- Supports transparency and traceability  
-- Designed for sustainable finance and SME support
-
-🔗 *Slides, architecture diagrams, and demo links will be added soon.*
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=3CB371&center=true&vCenter=true&width=550&lines=PhD+Student+in+Financial+Engineering;AI+Researcher+%7C+RegTech+%7C+NLP;Building+Green+and+Transparent+Tech;Multi-Agent+Systems+%7C+Knowledge+Graphs;Always+Learning+and+Creating+🌿">
+</p>
 
 ---
 
-## 🧪 Technical Interests
-- 🧠 **LLMs & Multi-Agent Systems**  
-- 🔍 **RAG (Retrieval-Augmented Generation)**  
-- 🔡 **Natural Language Processing**  
-- 📊 **Optimization & Financial Modeling**  
-- 🌱 **Green & Sustainable Finance Technologies**  
-- 🗄 **Knowledge Graphs (Neo4j)**  
-- 🌐 **Full-stack prototyping (Python, Streamlit, FastAPI)**  
+## 🌿 About Me
+
+💚 **PhD Student in Financial Engineering & AI**  
+💼 Working on **RegTech, NLP, automation systems, and sustainable finance**  
+📍 Based in Morocco  
+🎨 Also a **writer, artist, designer, and architecture lover**
+
+I love building intelligent systems that support **transparency, trust, and greener digital transformation**.
 
 ---
 
-## 🌟 Major Projects
+## 🚀 Current Research — *GreenReg*
 
-### 📌 **1. GreenReg – Regulatory Compliance Automation**
+**GreenReg: Intelligent, Explainable, and Sustainable Compliance Automation**
+
+- Multi-agent architecture  
+- RAG-based rule retrieval  
+- Knowledge Graph reasoning (Neo4j)  
+- Document extraction: EPUB → JSON → embeddings  
+- Built for **green digital transformation and SME-friendly tools**
+
+---
+
+## 🌟 Featured Projects
+
+### 🌱 **GreenReg — Sustainable RegTech Platform**
+- Automated rule verification  
 - Multi-agent reasoning  
-- Document extraction (EPUB → JSON → embeddings)  
-- RAG-based rule verification  
-- Evaluation using RAGAS  
-- Unified Streamlit UI
+- RAG + RAGAS evaluation  
+- Streamlit UI
 
-### 📌 **2. PaperWalk – AI Assistant for Research Papers**
-- Telegram bot using Claude + GPT TTS  
-- Retrieves scientific papers  
-- Summarizes by section  
-- Generates clean voice summaries for researchers
+### 📚 **PaperWalk — Smart Research Paper Navigator**
+- Telegram bot  
+- Fetches papers → extracts sections → summarizes  
+- Voice generation using TTS
 
-### 📌 **3. Text Extraction & Structuring Pipeline**
-- Converts EPUB to structured JSON  
-- Enables semantic search and knowledge graph integration  
-- Built for scalable document analysis
+### 📘 **Document Understanding Pipeline**
+- Converts large EPUBs into structured JSON  
+- Embedding generation (MiniLM, e5, BGE…)  
+- Semantic search + knowledge graph compatible
 
-### 📌 **4. Portfolio Optimization Tool**
-- Streamlit + SciPy/CVXPY  
-- Automated hedging with transaction costs  
-- Generates Excel reports (ExcelWriter)  
-- Uses live data from yfinance
+### 📊 **Portfolio Optimization App**
+- Python + Streamlit + SciPy/CVXPY  
+- Hedging under transaction costs  
+- Excel report generation  
+- Live market data (yfinance)
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
-### **Languages**
-- Python  
-- C++  
-- JavaScript / TypeScript  
-- SQL  
-- Markdown, YAML  
+### 🌿 Languages  
+![Python](https://img.shields.io/badge/Python-3CB371?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2E8B57?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6DBF4B?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4FAF50?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frameworks & Tools**
-- Streamlit, FastAPI  
-- PyTorch, Transformers  
-- Sentence-Transformers  
-- Neo4j, MongoDB  
-- Selenium  
-- OpenAI / Anthropic APIs  
-- scikit-learn, SciPy, CVXPY  
+### 🌿 Frameworks & Tools  
+![Streamlit](https://img.shields.io/badge/Streamlit-3CB371?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2E8B57?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-6DBF4B?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-3CB371?style=for-the-badge&logo=HuggingFace&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-2E8B57?style=for-the-badge&logo=neo4j&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-6DBF4B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 📚 Academic Work  
-- Preparing publications in *AI, RegTech, and sustainability-focused finance*  
-- Ongoing collaborations in:
-  - Compliance automation  
-  - RAG evaluation  
-  - NLP pipelines for technical documents  
+### 🌿 Additional Skills  
+- Semantic Search  
+- RAG + RAGAS  
+- Multi-Agent LLM Systems  
+- Document processing pipelines  
+- Optimization & modeling  
 
 ---
 
-## 🎨 About Me  
-Besides research, I’m also:
-- ✍️ A writer  
-- 🎨 An artist  
-- 🏛 Passionate about architecture and design  
-- 📚 Avid reader and learner  
+## 📊 GitHub Stats (Green Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanaeAttak&show_icons=true&theme=tokyonight&title_color=3CB371&icon_color=3CB371" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaeAttak&layout=compact&theme=tokyonight&title_color=3CB371" height="150">
+</p>
 
 ---
 
-## 📫 Contact Me
-- ✉️ Email: *sanae.attak@research.emi.ac.ma* 
-- 💼 LinkedIn: *https://www.linkedin.com/in/sanaeattak/*  
-- 🧪 Google Scholar: *https://scholar.google.co.uk/citations?user=QopMS6wAAAAJ&hl=en&authuser=1*  
+## 📬 Connect With Me
+  
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-3CB371?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-2E8B57?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-6DBF4B?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
+</p>
 
 ---
 
-### ⭐ If you like my work, feel free to star my repositories or connect!  
+<p align="center">🌱 *Thanks for visiting my profile! Feel free to explore and star my projects.* 🌱</p>
