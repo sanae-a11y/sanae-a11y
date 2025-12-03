@@ -20,7 +20,7 @@
 
 I love building intelligent systems that support **transparency, trust, and greener digital transformation**.
 
----
+ 
 
 ## 🚀 Current Research — *GreenReg*
 
@@ -58,7 +58,7 @@ I love building intelligent systems that support **transparency, trust, and gree
 - Excel report generation  
 - Live market data (yfinance)
 
----
+ 
 
 ## 🛠 Tech Stack  
 
@@ -83,16 +83,7 @@ I love building intelligent systems that support **transparency, trust, and gree
 - Document processing pipelines  
 - Optimization & modeling  
 
----
-
-## 📊 GitHub Stats (Green Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanaeAttak&show_icons=true&theme=tokyonight&title_color=3CB371&icon_color=3CB371" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanaeAttak&layout=compact&theme=tokyonight&title_color=3CB371" height="150">
-</p>
-
----
+ 
 
 ## 📬 Connect With Me
   
@@ -102,6 +93,5 @@ I love building intelligent systems that support **transparency, trust, and gree
   <a href="#"><img src="https://img.shields.io/badge/Google_Scholar-6DBF4B?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
 </p>
 
----
-
+ 
 <p align="center">🌱 *Thanks for visiting my profile! Feel free to explore and star my projects.* 🌱</p>
