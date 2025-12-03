@@ -91,4 +91,4 @@ I love building intelligent systems that support **transparency, trust, and gree
 </p>
 
  
-<p align="center">🌱 *Thanks for visiting my profile! Feel free to explore and star my projects.* 🌱</p>
+<p align="center">🌱 **Thanks for visiting my profile! Feel free to explore and star my projects.** 🌱</p>
