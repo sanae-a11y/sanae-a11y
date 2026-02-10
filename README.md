@@ -14,7 +14,6 @@
 💚 **PhD Student in Financial Engineering & AI**  
 💼 Working on **RegTech, NLP, automation systems, and sustainable finance**  
 📍 Based in Morocco  
-🎨 Also a **writer, designer, and architecture lover**
 
 I love building intelligent systems that support **transparency, trust, and greener digital transformation**.
 
