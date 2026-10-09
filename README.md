@@ -18,7 +18,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm an AI engineer and PhD researcher in NLP for finance, based in Morocco. I enjoy building applications that combine modern web development, backend engineering, and practical AI.
+I'm an AI engineer and PhD researcher in NLP for finance, based in Rabat. I enjoy building applications that combine modern web development, backend engineering, and practical AI.
 
 My focus is on turning LLM capabilities into useful product features — with attention to application architecture, reliability, evaluation, and user experience.
 
@@ -27,7 +27,7 @@ My focus is on turning LLM capabilities into useful product features — with at
 * ⚙️ **Backend:** Python, FastAPI, REST APIs, and data-driven applications
 * 🎨 **Frontend:** Next.js, React, and TypeScript
 * 🔬 **Research:** Financial NLP and multilingual financial causality extraction
-* 📍 **Based in Morocco** · Interested in full-stack AI engineering opportunities
+* 📍 **Based in Rabat** · Interested in full-stack AI engineering opportunities
 
 I bring together an engineer's mindset and a researcher's curiosity to build AI products that solve real problems.
 
@@ -121,7 +121,7 @@ I am particularly interested in engineering AI applications that are:
 
 I'm interested in opportunities where full-stack development and applied AI meet — from building intuitive interfaces to integrating intelligent backend capabilities.
 
-📍 Morocco · Open to discussing AI engineering opportunities.
+📍 Rabat · Open to discussing AI engineering opportunities.
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/sanaeattak/)
 * 💻 [GitHub](https://github.com/sanae-a11y)
